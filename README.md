@@ -75,4 +75,3 @@ Health Tech              •  Business Intelligence
 Estou sempre aberto a trocar experiências sobre **dados, Python, automação e inteligência artificial**. Você pode entrar em contato comigo pelo meu [perfil no GitHub](https://github.com/Geovane-Gomez).
 
 > ⚡ Tecnologia gera valor quando resolve problemas reais — e é isso que busco construir todos os dias.
-
